@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 /**
  * 반복문 - 합
  */
-public class BOJ_8399 {
+public class BOJ_8393 {
   public static void main(String[] args) throws Exception {
     try (BufferedReader br = new BufferedReader(new InputStreamReader(System.in))) {
       int N = Integer.parseInt(br.readLine());
