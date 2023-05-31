@@ -3,8 +3,11 @@ package Members.JongWon.Week1;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
+/**
+ * 사칙연산
+ * A+B, A-B, A*B, A/B(몫), A%B(나머지)
+ */
 public class BOJ_10869 {
-  // A+B, A-B, A*B, A/B(몫), A%B(나머지)
   public static void main(String[] args) throws Exception {
     try (BufferedReader br = new BufferedReader(new InputStreamReader(System.in))) {
       String[] numAry = br.readLine().split(" ");
