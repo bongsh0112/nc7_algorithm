@@ -9,7 +9,7 @@ public class bj11382 {
     long[] nums = new long[3];
 
     for (int i = 0; i < nums.length; i++) {
-      nums[i] = scanner.nextInt();
+      nums[i] = scanner.nextLong();
     }
     long sum = 0;
     for (int i = 0; i < nums.length; i++) {
