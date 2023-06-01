@@ -3,6 +3,9 @@ package Members.JongWon.Week1;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
+/**
+ * 1차원배열 - 최소, 최대
+ */
 public class BOJ_10818 {
 
   public static void main(String[] args) throws Exception {
