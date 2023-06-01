@@ -2,7 +2,7 @@
 //꼬마정민
 import java.util.Scanner;
 
-public class bj11382 {
+public class BOJ_11382 {
   public static void main(String[] args) {
     Scanner scanner = new Scanner(System.in);
 

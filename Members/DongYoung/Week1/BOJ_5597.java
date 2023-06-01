@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.Arrays;
 
-public class bj5597 {
+public class BOJ_5597 {
   public static void main(String[] args) {
     Scanner scanner = new Scanner(System.in);
 
@@ -22,5 +22,6 @@ public class bj5597 {
         System.out.println(i + 1);
       }
     }
+    scanner.close();
   }
 }

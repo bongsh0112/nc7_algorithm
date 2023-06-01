@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class bj3052 {
+public class BOJ_3052 {
   public static void main(String[] args) {
     Scanner scanner = new Scanner(System.in);
     int[] arr = new int[10];
@@ -11,12 +11,10 @@ public class bj3052 {
     int count = 1;
     boolean isDuple = false;
     for (int i = 1; i < arr.length; i++) {
-      System.out.println(i);
       for (int j = 0; j < i; j++) {
-        System.out.println(arr[i]);
         if (arr[i] == arr[j]) {
           isDuple = true;
-          continue;
+          break;
         }
       }
       if (isDuple == false) {
@@ -25,5 +23,6 @@ public class bj3052 {
       isDuple = false;
     }
     System.out.println(count);
+    scanner.close();
   }
 }

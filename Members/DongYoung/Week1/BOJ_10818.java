@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class bj10818 {
+public class BOJ_10818 {
   public static void main(String[] args) {
     Scanner scanner = new Scanner(System.in);
 
@@ -25,6 +25,8 @@ public class bj10818 {
       System.out.print(' ');
       System.out.print(maxNum);
     }
+    scanner.close();
 
   }
+
 }

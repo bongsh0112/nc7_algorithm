@@ -3,12 +3,12 @@ import java.util.Scanner;
 import java.util.Arrays;
 import java.util.ArrayList;
 
-public class bj10810 {
+public class BOJ_10810 {
   public static void main(String[] args) {
     Scanner scanner = new Scanner(System.in);
     int n1 = scanner.nextInt();
     int n2 = scanner.nextInt();
-    String nullStr = scanner.nextLine();
+    scanner.nextLine();
     ArrayList<String> list = new ArrayList<String>();
     for (int i = 0; i < n2; i++) {
       String str = scanner.nextLine();
@@ -32,6 +32,7 @@ public class bj10810 {
       ans += ' ' + Integer.toString(basketArr[i]);
     }
     System.out.println(ans);
+    scanner.close();
   }
 
 }
