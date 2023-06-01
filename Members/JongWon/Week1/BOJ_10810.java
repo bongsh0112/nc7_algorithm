@@ -4,7 +4,7 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
 /**
- * 
+ * 반복문 - 공 넣기
  */
 public class BOJ_10810 {
   public static int N, M;
