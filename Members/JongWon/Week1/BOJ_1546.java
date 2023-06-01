@@ -3,6 +3,9 @@ package Members.JongWon.Week1;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
+/**
+ * 배열 - 평균
+ */
 public class BOJ_1546 {
   public static void main(String[] args) throws Exception {
     try (BufferedReader br = new BufferedReader(new InputStreamReader(System.in))) {
