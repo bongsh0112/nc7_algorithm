@@ -1,6 +1,8 @@
 import java.io.*;
 import java.util.*;
 
+//과제 안 내신 분..?
+
 public class BOJ_5597{
         public static void main(String[] args) {
              Scanner sc = new Scanner(System.in);

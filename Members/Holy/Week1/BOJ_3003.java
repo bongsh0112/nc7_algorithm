@@ -1,6 +1,9 @@
 import java.io.*;
 import java.util.*;
 
+//킹, 퀸, 룩, 비숍, 나이트, 폰 성공다국어
+
+
 public class BOJ_3003 {
 //    킹 1개, 퀸 1개, 룩 2개, 비숍 2개, 나이트 2개, 폰 8개로 구성
     public static void main(String[] args) throws IOException{
