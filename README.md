@@ -40,4 +40,4 @@
 
 ## WeekList
 - [Week1](./Problem/Week1.md) \[23. 05. 30 ~ 23. 06. 05\]
-- [Week1](./Problem/Week2.md) \[23. 06. 05 ~ 23. 06. 12\]
+- [Week2](./Problem/Week2.md) \[23. 06. 05 ~ 23. 06. 12\]
