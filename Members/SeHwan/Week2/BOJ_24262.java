@@ -2,6 +2,8 @@ package Week2;
 
 public class BOJ_24262 {
 
+//  14188KB	124ms
+
   public static void main(String[] args) {
 
 //    MenOfPassion(A[], n) {
@@ -15,3 +17,5 @@ public class BOJ_24262 {
   }
 
 }
+
+

@@ -7,6 +7,8 @@ import java.util.Scanner;
 
 public class BOJ_24263 {
 
+//  14336KB	124ms
+
   public static void main(String[] args) throws IOException {
 
 //    MenOfPassion(A[], n) {

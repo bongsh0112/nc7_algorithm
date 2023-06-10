@@ -10,6 +10,8 @@ public class BOJ_11005 {
 
   // ASCII -> A ~ Z : 65~90 => 10~35
 
+  //14352KB	128ms
+
   public static void main(String[] args) throws IOException {
 
     BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

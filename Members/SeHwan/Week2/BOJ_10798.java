@@ -8,6 +8,8 @@ import java.io.InputStreamReader;
 
 public class BOJ_10798 {
 
+//  14396KB	132ms
+
   public static void main(String[] args) throws IOException {
 
     BufferedReader bf = new BufferedReader(new InputStreamReader(System.in));

@@ -10,6 +10,8 @@ public class BOJ_24313 {
   // g = n
   // 모든 n >= n0에 대하여 f <= c * g(n)이면 1 리턴 그렇지 않은 n이 하나라도 있으면 0 리턴
 
+  // 14140KB 124ms
+
 
   public static void main(String[] args) throws IOException {
 
