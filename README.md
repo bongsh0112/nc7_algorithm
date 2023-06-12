@@ -1,7 +1,7 @@
 # NCP7 알고리즘 스터디
 
 ## 주의사항
-> Common와 최상위 경로의 README는 수정❌
+> Common과 최상위 경로의 README는 수정❌
 
 ## 문제 출처
 - [백준](https://www.acmicpc.net/step)
@@ -40,3 +40,4 @@
 
 ## WeekList
 - [Week1](./Problem/Week1.md) \[23. 05. 30 ~ 23. 06. 05\]
+- [Week2](./Problem/Week2.md) \[23. 06. 05 ~ 23. 06. 12\]
