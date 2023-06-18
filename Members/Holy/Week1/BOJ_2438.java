@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class BOJ_2438 {
 
 //    별 찍기 - 1
