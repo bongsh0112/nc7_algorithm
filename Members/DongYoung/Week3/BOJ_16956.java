@@ -63,6 +63,7 @@ public class BOJ_16956 {
       }
     }
     if (result) {
+      System.out.println(1);
       for (int i = 0; i < N; i++) {
         for (int j = 0; j < M; j++) {
           System.out.print(field[i][j]);
