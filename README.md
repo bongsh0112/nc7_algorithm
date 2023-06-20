@@ -33,6 +33,12 @@
 
 ---
 
+## 문제 목록
+- [Week1](./Problem/Week1.md) \[23. 05. 30 ~ 23. 06. 05\]
+- [Week2](./Problem/Week2.md) \[23. 06. 05 ~ 23. 06. 12\]
+- [Week3](./Problem/Week3.md) \[23. 06. 12 ~ 23. 06. 19\]
+- [Week4](./Problem/Week4.md) \[23. 06. 19 ~ 23. 06. 26\]
+
 ## 문제 출처
 - [백준](https://www.acmicpc.net/step)
 
@@ -59,6 +65,6 @@
 5. 레포장이 PR을 확인하고 Merge한다.
 
 ## PR Convention
-`[승혁] Week03 풀이 완료`
+`[승혁] Week03 풀이 완료` 형식
 
 ---
