@@ -65,4 +65,4 @@ public class Main {
   }
 }
 
-// https://141227.tistory.com/230 : 참조(정리잘됌)
+// https://141227.tistory.com/230 : 참조(정리잘됌)!
