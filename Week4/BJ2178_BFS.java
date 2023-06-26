@@ -65,7 +65,7 @@ public class Main {
   }
 }
 
-// https://141227.tistory.com/231 : 참조(정리잘됌)
+// https://141227.tistory.com/231 : 참조(정리잘됌)!
 
 // java.awt.Point 클래스:
 // 2차원 평면 상의 한 점을 나타내는 클래스입니다. 주요 기능으로는 좌표값의 설정, 조회, 비교 등이 있습니다.
