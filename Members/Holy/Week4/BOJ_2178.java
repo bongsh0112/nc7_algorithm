@@ -50,7 +50,7 @@ public class BOJ_2178 {
 
             for (int i = 0; i < 4; i++) {
                 int nx = currX + dx[i];
-                int ny = currY + dy[i];
+                int ny = currY + dy[i]  ;
 
                 if (nx >= 0 && nx < N && ny >= 0 && ny < M) {
                     if (maze[nx][ny] == 1 && !visited[nx][ny]) {

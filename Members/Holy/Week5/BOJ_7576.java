@@ -1,6 +1,5 @@
 import java.io.*;
 import java.util.*;
-
 public class BOJ_7576 {
     static boolean[][] check;
     static int[][] tomato;
@@ -27,7 +26,7 @@ public class BOJ_7576 {
             }
         }
 
-        bfs(M,N);
+//        bfs(M,N);
 
         // Find maximum distance
         int maxDistance = 0;
