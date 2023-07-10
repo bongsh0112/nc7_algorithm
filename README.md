@@ -39,6 +39,7 @@
 - [Week3](./Problem/Week3.md) \[23. 06. 12 ~ 23. 06. 19\]
 - [Week4](./Problem/Week4.md) \[23. 06. 19 ~ 23. 06. 26\]
 - [Week5](./Problem/Week5.md) \[23. 06. 26 ~ 23. 07. 03\]
+- [Week6](./Problem/Week6.md) \[23. 07. 03 ~ 23. 07. 10\]
 
 ## 문제 출처
 - [백준](https://www.acmicpc.net/step)
@@ -57,7 +58,8 @@
 ---
 
 ## Git
-> Original Repository는 스터디가 끝나고 다시 Sync fork한다.
+> Original Repository는 스터디가 끝나고 다시 Sync fork해주세요.
+> iml, .vscode 등의 설정파일이 레포에 업로드 되지 않도록 IDE에서 직접 작업이 아닌 파일만 가져오는 형식으로 문제 풀이 진행해주시기 바랍니다.
 
 1. 각자의 Remote에 현재의 Fork
 2. Fork로 받아간 Repository를 자신의 Local에 Clone 및 Remote 연결
