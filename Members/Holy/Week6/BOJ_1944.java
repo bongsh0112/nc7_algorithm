@@ -119,6 +119,12 @@ public class BOJ_1944 {
         }
     }
 
+
+//    compareTo 메서드는 이 코드에서 필요한 이유는 Mst_Node 클래스가 Comparable 인터페이스를 구현하기 때문입니다.
+//    compareTo 메서드는 Mst_Node 클래스의 객체들의 자연적인 순서를 정의하는 데 사용됩니다. 이 메서드는 두 개의 Mst_Node 객체를 비교하여 순서를 결정합니다.
+//    코드에서 우선순위 큐 pq를 사용하여 최소 신장 트리(Minimum Spanning Tree)를 구성하는데, pq는 내부적으로 compareTo 메서드를 사용하여 요소들의 순서를 정렬합니다.
+//    compareTo 메서드의 구현은 cost 값을 기준으로 오름차순으로 정렬하도록 되어 있습니다. 이를 통해 pq에서 최소 비용의 간선부터 선택되어 최소 신장 트리를 구성할 수 있습니다.
+
     public static class Node {
         int x, y, count;
 
