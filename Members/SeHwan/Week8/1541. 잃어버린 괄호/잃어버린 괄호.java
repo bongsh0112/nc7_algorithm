@@ -48,13 +48,14 @@ public class Main {
         answer -= tempArr.get(i);
       }
     } else { // 괄호를 안쳐도 되는 식이라면
-      answer = nums.get(0); // 첫 번째 원소부터 더한다
+      answer = nums.get(0); // 첫 번째 원소부터 더한다\
       for (int i = 0; i < operators.size(); i++) { // 연산자와 숫자 인덱스의 관계 -> i번째 연산자를 i + 1 숫자에 적용
-        if (operators.get(i).equals("+")) {
-          answer += nums.get(i + 1);
-        } else {
-          answer -= nums.get(i + 1);
-        }
+//        if (operators.get(i).equals("+")) {
+//          answer += nums.get(i + 1
+//        } else {
+//          answer -= nums.get(i + 1);
+//        }
+        answer = operators.get(i).equals("+") ? answer + nums.get(i + 1) : answer - nums.get(i + 1);
       }
     }
     
@@ -81,8 +82,6 @@ public class Main {
       if (list.get(i).equals("+")) {
         b = true;
         break;
-      } else {
-        b = false;
       }
     }
     
