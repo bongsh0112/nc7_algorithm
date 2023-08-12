@@ -42,7 +42,8 @@
 - [Week6](./Problem/Week6.md) \[23. 07. 03 ~ 23. 07. 10\]
 - [Week7](./Problem/Week7.md) \[23. 07. 10 ~ 23. 07. 17\]
 - [Week8](./Problem/Week8.md) \[23. 07. 17 ~ 23. 07. 24\]
-- [Week9](./Problem/Week9.md) \[23. 07. 24 ~ 23. 07. 31\]
+- [Week9](./Problem/Week9.md) \[23. 07. 24 ~ 23. 08. 07\]
+- [Week10](./Problem/Week10.md) \[23. 08. 07 ~ 23. 08. 14\]
 
 ## 문제 출처
 - [백준](https://www.acmicpc.net/step)
@@ -51,7 +52,7 @@
 
 ## 디렉토리 용도
 - **작업용 디렉토리**는`/Members/{Name}`에서 작업 해주시기 바랍니다.
-- **문제 선정**은 `/Problem/{Week}` 해당주차 **.md**파일을 확인한다
+- **문제 선정**은 `/Problem/{Week}` 해당주차 **.md**파일을 확인해주세요.
 
 ---
 
@@ -66,9 +67,9 @@
 
 1. 각자의 Remote에 현재의 Fork
 2. Fork로 받아간 Repository를 자신의 Local에 Clone 및 Remote 연결
-3. 작업내역에 대해서 Fork를 떠간 자신의 Remote Repository에 Push한다.
-4. 스터디하기 전에 Original Repository / Main으로 PR을 작성한다.
-5. 레포장이 PR을 확인하고 Merge한다.
+3. 작업내역에 대해서 Fork를 떠간 자신의 Remote Repository에 Push
+4. 스터디하기 전에 Original Repository / Main으로 PR을 작성
+5. 레포장이 PR을 확인하고 Merge
 
 ## PR Convention
 `[승혁] Week03 풀이 완료` 형식
