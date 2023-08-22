@@ -1,4 +1,4 @@
-# Week11
+# Week12
 - https://www.acmicpc.net/problem/
   - 트리
     - 14675 단절점과 단절선
